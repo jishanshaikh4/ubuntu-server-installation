@@ -1,0 +1,28 @@
+\documentclass[12pt]{scrartcl}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	urlcolor=blue,
+	citecolor=red
+}
+
+\title{Installing Ubuntu 18.04 (LTS) server on Oracle Virtual Box\footnote{This document is neither supported nor endorsed by any organization, but is a individual's creation. Contact \href{mailto:jishanshaikh9893@gmail.com}{jishanshaikh9893@gmail.com} for more details.}}
+\author{Jishan Shaikh}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}\textbf{Abstract:} Stable Ubuntu 18.04 (Bionic Beaver) is released in first quarter of May 2018, with Long Term Support (LTS) for first time by Canonical on desktop, server, and cloud services. It is evident that more than 98\% of servers/clouds/supercomputers have deployed in Linux. There are not ground breaking changes in Ubuntu from 17.10 to 18.04 version, both of which are now also available with GNOME Shell (with a vision to move completely to GNOME environment). Ubuntu 18.04 for servers/clouds comes with NO absolute warranty, See licensing details \href{http://canonical.com/}{here}. This paper gives a brief overview on how to install/deploy Oracle 18.04 server on Oracle Virtual Box in Linux (Ubuntu). This document may be treated as third party manual. Ubuntu, Virtual Box, etc. are registered trademarks of their respective owners e.g. Canonical, Oracle. 
+\end{abstract}
+\section{Downloading the iso file}The first step is to download the iso file from the official website \href{http://releases.ubuntu.com/18.04/ubuntu-18.04-live-server-amd64.iso}{here}. Make sure that the size of disk image iso file is around 800MB to 1GB, according to your operating system.
+
+\section{Open Oracle Virtual Box Manager}Open your Oracle Virtual Box Manager from your application list. If your have not installed it, installation procedure is described \href{http://www.askubuntu.com}{here}. 
+\begin{figure}
+	\centering
+	\includegraphics[width=\linewidth, height=0.45\textheight]{images/image1.png}	%../../
+	\caption[Meme-1 (tables)]{Meme-1 for australia}
+	\label{fig:meme11}
+\end{figure}
+\end{document}

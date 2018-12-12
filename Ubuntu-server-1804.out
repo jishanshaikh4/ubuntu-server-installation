@@ -1,0 +1,8 @@
+\BOOKMARK [1][-]{section.1}{Downloading the iso file}{}% 1
+\BOOKMARK [1][-]{section.2}{Setting up Virtual Machine}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Open Oracle Virtual Box}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Create new Virtual Machine}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Attach Optical drive \(iso file\) to virtual machine}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Installing Ubuntu 18.04 inside Virtual Machine}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Removing Ubuntu 18.04}{}% 7
+\BOOKMARK [1][-]{section.4}{Conclusions}{}% 8
